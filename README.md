@@ -18,7 +18,7 @@ Office Hours: By appointment
 - Data sharing how-tos
 - The importance of metadata
 
-## Some excellent resources on (which we will be relying upon heavily in this course)
+### Some excellent resources on (which we will be relying upon heavily in this course)
 - [R for Data Science](https://r4ds.had.co.nz/)
 - [Happy Git and GitHub for the useR](http://happygitwithr.com/index.html)
 
