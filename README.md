@@ -1,4 +1,4 @@
-# BIOL 548O - Dealing with Data
+## BIOL 548O - Dealing with Data
 
 Welcome to the Dealing with Data Graduate Module. In this 1 credit course we will be developing the skills required to mangage all sorts of data in a simple, coherent, and (hopefully) reproducible way. This is not a statistics course nor a programming course -- here we are dealing with the oft-neglected part of the workflow of how to go from raw data (entered from your field notebook or output from some fancy piece of machinery) to data that you can actually use to answer the questions you are actually interestd in.
 
